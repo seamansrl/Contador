@@ -1,6 +1,8 @@
 # Contador:
 Contador de personas y objetos usando ultrasonido
 
+![Contador](Image.jpg)
+
 # Chasis:
 Object counter using ultrasonic HC-SR04 and Arduino Nano with apple type +5v supply
 https://www.thingiverse.com/thing:7058359
