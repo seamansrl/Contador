@@ -1,0 +1,10 @@
+C:\Users\g3ne5\OneDrive\Escritorio\Comntador\Comntador\bin\Debug\Comntador.exe.config
+C:\Users\g3ne5\OneDrive\Escritorio\Comntador\Comntador\bin\Debug\Comntador.exe
+C:\Users\g3ne5\OneDrive\Escritorio\Comntador\Comntador\bin\Debug\Comntador.pdb
+C:\Users\g3ne5\OneDrive\Escritorio\Comntador\Comntador\obj\Debug\Comntador.csproj.AssemblyReference.cache
+C:\Users\g3ne5\OneDrive\Escritorio\Comntador\Comntador\obj\Debug\Comntador.Inicio.resources
+C:\Users\g3ne5\OneDrive\Escritorio\Comntador\Comntador\obj\Debug\Comntador.Properties.Resources.resources
+C:\Users\g3ne5\OneDrive\Escritorio\Comntador\Comntador\obj\Debug\Comntador.csproj.GenerateResource.cache
+C:\Users\g3ne5\OneDrive\Escritorio\Comntador\Comntador\obj\Debug\Comntador.csproj.CoreCompileInputs.cache
+C:\Users\g3ne5\OneDrive\Escritorio\Comntador\Comntador\obj\Debug\Comntador.exe
+C:\Users\g3ne5\OneDrive\Escritorio\Comntador\Comntador\obj\Debug\Comntador.pdb
